@@ -1,0 +1,14 @@
+{
+  "name": "exact-optional-property-types-fix-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Branch",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "https://typescript.visualstudio.com/cf7ac146-d525-443c-b23c-0d58337efebc/_apis/build/builds/107256/artifacts?artifactName=tgz&fileId=A249FC3C1F4E540B70977C44884C27EB0042FB333AB3BDDFA2F202C4AE39B06A02&fileName=/typescript-4.4.0-insiders.20210722.tgz"
+  }
+}
